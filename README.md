@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dkabagambe
 - 👀 I’m interested in programming
-- 🌱 I’m a web-developerand a Mobile Applications developer
+- 🌱 I’m a web-developer and a Mobile Applications developer
 - 💞️ I’m looking to collaborate on full stack MERN projects
 - 📫 How to reach me ...email me :danielkabagambe#gmail.com
 
